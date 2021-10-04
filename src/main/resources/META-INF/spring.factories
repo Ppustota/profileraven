@@ -1,0 +1,2 @@
+org.springframework.context.ApplicationContextInitializer = zura.pustota.profileraven.infra.MyApplicationContextInitializer
+org.springframework.boot.env.EnvironmentPostProcessor = zura.pustota.profileraven.infra.ProfileDetectorEPP
